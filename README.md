@@ -1,3 +1,3 @@
 # NBA_Homestate_Analysis
 
-This is a project in which NBA players of each state are analyzed to determine which state produces the best prospects.
+This is a project in which NBA players of each state are analyzed to determine which state produces the best prospects. This project mainly uses the Pandas library in Python.
